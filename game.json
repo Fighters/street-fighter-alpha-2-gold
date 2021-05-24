@@ -1,0 +1,114 @@
+{
+	"names": [
+		{
+			"region": "default",
+			"roman": "Street Fighter Alpha 2 Gold"
+		},
+		{
+			"region": "japan",
+			"roman": "Street Fighter Zero 2 Alpha",
+			"original": "ストリートファイター ZERO 2 アルファ"
+		}
+	],
+	"also-known-as": [
+		"sfa2g",
+		"sfz2a",
+		"street zero 2 alpha",
+		"street zero 2 dash",
+		"alpha 2 gold",
+		"alpha 2 dash",
+		"zero 2 alpha",
+		"zero 2 dash"
+	],
+	"platforms": [
+		{
+			"name": "Arcade",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Street Fighter Zero 2 Alpha",
+					"original": "ストリートファイターZERO 2 アルファ",
+					"releaseDate": "08-1996",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"name": "PlayStation",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Street Fighter Zero 2 Alpha",
+					"original": "ストリートファイターZERO 2 アルファ",
+					"releaseDate": "11-12-1998",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "United States",
+					"roman": "Street Fighter Alpha 2 Gold",
+					"releaseDate": "11-30-1997",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "Europe",
+					"roman": "Street Fighter Alpha 2 Dash",
+					"releaseDate": "07-1998",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": ""
+				}
+			]
+		},
+		{
+			"name": "Saturn",
+			"regions": [
+				{
+					"name": "Japan",
+					"roman": "Street Fighter Zero 2 Alpha",
+					"original": "ストリートファイターZERO 2 アルファ",
+					"releaseDate": "11-19-1998",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "United States",
+					"roman": "Street Fighter Alpha 2 Gold",
+					"releaseDate": "11-30-1997",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": ""
+				},
+				{
+					"name": "Europe",
+					"roman": "Street Fighter Alpha 2 Dash",
+					"releaseDate": "1997",
+					"developer": "Capcom",
+					"publisher": "Virgin Interactive",
+					"coverFront": ""
+				},
+				{
+					"name": "South America",
+					"roman": "Street Fighter Alpha 2 Gold",
+					"releaseDate": "1997",
+					"developer": "Capcom",
+					"publisher": "Tec Toy",
+					"coverFront": ""
+				}
+			]
+		}
+	],
+	"features": [
+		{
+			"name": "Super Combos"
+		},
+		{
+			"name": "Custom Combos"
+		}
+	]
+}
